@@ -1,0 +1,787 @@
+name,len,Long Title
+Warner Bros.,32,"['Yes Man (2008)', 'Nights in Rodanthe (2008)', 'Enter the Dragon (1973)', ""Fool's Gold (2008)"", 'Gravity (2013)', 'A Cinderella Story (2004)', 'Twisters (2024)', ""You've Got Mail (1998)"", 'Creed (2015)', 'The Lego Batman Movie (2017)', 'Twister (1996)', 'Zodiac (2007)', 'Beetlejuice Beetlejuice (2024)', 'Wonka (2023)', 'Furiosa: A Mad Max Saga (2024)', 'Pacific Rim (2013)', 'Scoob! (2020)', 'Creed II (2018)', 'Godzilla x Kong: The New Empire (2024)', '8-Bit Christmas (2021)', 'Juror #2 (2024)', 'The Departed (2006)', 'Kong: Skull Island (2017)', 'The Curious Case of Benjamin Button (2008)', 'The Last Samurai (2003)', 'The Secret Garden (1993)', 'The Flash (2023)', 'Get Hard (2015)', 'Blended (2014)', 'Vacation (1983)', 'The Losers (2010)', 'Joker: Folie à Deux (2024)']"
+Universal Pictures,28,"['The Fall Guy (2024)', 'Knock at the Cabin (2023)', 'Twister (1996)', 'Kung Fu Panda 4 (2024)', 'The Money Pit (1986)', 'Neighbors 2: Sorority Rising (2016)', 'The Little Rascals (1994)', 'Children of Men (2006)', ""Bridget Jones's Diary (2001)"", 'Migration (2023)', 'Twisters (2024)', 'The Lorax (2012)', 'Fast Times at Ridgemont High (1982)', 'Along Came Polly (2004)', 'Weird Science (1985)', 'Wicked (2024)', 'Despicable Me 4 (2024)', 'Sixteen Candles (1984)', 'Ruby Gillman: Teenage Kraken (2023)', 'Knocked Up (2007)', 'The Fabelmans (2022)', 'Liar Liar (1997)', 'Pitch Perfect 2 (2015)', 'Billy Madison (1995)', 'Glass (2019)', 'Ted 2 (2015)', 'Harry and the Hendersons (1987)', 'Split (2016)']"
+Columbia Pictures,26,"['The Social Network (2010)', 'Mr. Deeds (2002)', 'The Cable Guy (1996)', 'Anyone But You (2023)', 'Afraid (2024)', 'Stand by Me (1986)', 'Vivo (2021)', 'Groundhog Day (1993)', 'The Pirates! Band of Misfits (2012)', 'Not Another Teen Movie (2001)', 'Fun with Dick and Jane (2005)', 'Pixels (2015)', 'Just Go with It (2011)', 'Madame Web (2024)', 'Venom: The Last Dance (2024)', 'Arthur Christmas (2011)', 'The Garfield Movie (2024)', 'Rocky Balboa (2006)', 'The Angry Birds Movie (2016)', ""A Knight's Tale (2001)"", 'Harold and the Purple Crayon (2024)', 'Ghostbusters: Frozen Empire (2024)', 'The Adventures of Tintin (2011)', 'The Other Guys (2010)', 'Talladega Nights: The Ballad of Ricky Bobby (2006)', 'Zookeeper (2011)']"
+Paramount Pictures,22,"['Top Gun: Maverick (2022)', 'The Adventures of Tintin (2011)', 'Planes, Trains & Automobiles (1987)', 'Clue (1985)', 'Instant Family (2018)', ""Daddy's Home (2015)"", 'Mission: Impossible - Dead Reckoning Part One (2023)', ""Daddy's Home 2 (2017)"", 'IF (2024)', 'The Curious Case of Benjamin Button (2008)', ""Ferris Bueller's Day Off (1986)"", 'Jackass Presents: Bad Grandpa (2013)', 'Sonic the Hedgehog 3 (2024)', ""Wayne's World (1992)"", 'Zodiac (2007)', 'Mean Girls (2024)', 'Crossroads (2002)', 'Gladiator II (2024)', 'Reno 911!: Miami (2007)', 'A Quiet Place: Day One (2024)', 'Annihilation (2018)', 'Dungeons & Dragons: Honor Among Thieves (2023)']"
+TSG Entertainment,17,"['Anyone But You (2023)', 'Venom: The Last Dance (2024)', 'Kingdom of the Planet of the Apes (2024)', 'Lyle, Lyle, Crocodile (2022)', 'Ghostbusters: Frozen Empire (2024)', ""Ron's Gone Wrong (2021)"", 'Harold and the Purple Crayon (2024)', 'The Grand Budapest Hotel (2014)', 'Madame Web (2024)', 'The Secret Life of Walter Mitty (2013)', 'Gone Girl (2014)', ""The Pope's Exorcist (2023)"", 'Alvin and the Chipmunks: The Road Chip (2015)', 'Deadpool & Wolverine (2024)', 'Birdman or (The Unexpected Virtue of Ignorance) (2014)', 'A Haunting in Venice (2023)', 'Afraid (2024)']"
+Twentieth Century Fox,14,"['Jingle All the Way 2 (2014) (V)', 'The Secret Life of Walter Mitty (2013)', 'Reno 911!: Miami (2007)', ""Dude, Where's My Car? (2000)"", ""Gulliver's Travels (2010)"", 'Edward Scissorhands (1990)', 'The Sitter (2011)', 'Gone Girl (2014)', 'My Cousin Vinny (1992)', 'Big (1988)', 'Aliens (1986)', 'Idiocracy (2006)', 'Home Alone 2: Lost in New York (1992)', 'Shallow Hal (2001)']"
+New Line Cinema,11,"['The Secret Life of Walter Mitty (2013)', 'Horrible Bosses 2 (2014)', 'Vacation (2015)', 'Horrible Bosses (2011)', 'Keanu (2016)', '8-Bit Christmas (2021)', 'Turtles All the Way Down (2024)', 'Creed (2015)', 'Mr. Deeds (2002)', 'Creed II (2018)', 'Blade (1998)']"
+DreamWorks Animation,11,"['Orion and the Dark (2024)', 'The Croods: A New Age (2020)', 'Turbo (2013)', 'Ruby Gillman: Teenage Kraken (2023)', 'The Wild Robot (2024)', 'Kung Fu Panda 3 (2016)', 'Captain Underpants: The First Epic Movie (2017)', 'Bee Movie (2007)', 'Megamind (2010)', 'Kung Fu Panda 4 (2024)', 'The Croods (2013)']"
+Happy Madison Productions,11,"['Leo (2023)', 'The Out-Laws (2023)', 'The Wrong Missy (2020)', 'Blended (2014)', 'Mr. Deeds (2002)', 'Home Team (2022)', 'The Animal (2001)', 'Pixels (2015)', 'Just Go with It (2011)', 'Zookeeper (2011)', 'The Hot Chick (2002)']"
+Walt Disney Pictures,10,"['Wish (2023)', 'Lightyear (2022)', 'Moana 2 (2024)', 'Strange World (2022)', 'Cars 3 (2017)', 'Remember the Titans (2000)', 'Cars 2 (2011)', 'Inside Out 2 (2024)', ""Chip 'n Dale: Rescue Rangers (2022)"", 'Cool Runnings (1993)']"
+Dentsu,10,"['Twisters (2024)', 'Maboroshi (2023)', 'Nobody (2021)', 'The Wild Robot (2024)', 'The Croods: A New Age (2020)', 'Migration (2023)', 'Wicked (2024)', 'Kung Fu Panda 4 (2024)', 'Split (2016)', 'Knock at the Cabin (2023)']"
+Metro-Goldwyn-Mayer (MGM),9,"['Creed (2015)', 'Creed II (2018)', 'Creed III (2023)', 'Zookeeper (2011)', 'A Christmas Story (1983)', 'The Cutting Edge (1992)', 'Rocky Balboa (2006)', 'Lars and the Real Girl (2007)', 'Música (2024)']"
+Netflix,9,"['Hit Man (2023)', 'The Wrong Missy (2020)', 'Love, Divided (2024)', 'Lift (2024)', 'The Guilty (2021)', 'Leo (2023)', 'The Kissing Booth (2018)', 'The Gray Man (2022)', 'The Sea Beast (2022)']"
+Chartoff-Winkler Productions,9,"['Rocky Balboa (2006)', 'Rocky V (1990)', 'Rocky IV (1985)', 'Creed II (2018)', 'Rocky III (1982)', 'Rocky II (1979)', 'Creed III (2023)', 'Rocky (1976)', 'Creed (2015)']"
+Amblin Entertainment,8,"['The Adventures of Tintin (2011)', 'The Money Pit (1986)', 'Catch Me If You Can (2002)', 'Twisters (2024)', 'Twister (1996)', 'The Fabelmans (2022)', 'Harry and the Hendersons (1987)', 'The Little Rascals (1994)']"
+Miramax,8,"['Pulp Fiction (1994)', 'Good Will Hunting (1997)', 'The Beekeeper (2024)', 'Get Over It (2001)', 'The Holdovers (2023)', 'Here (2024)', ""Bridget Jones's Diary (2001)"", 'The Others (2001)']"
+Québec Production Services Tax Credit,8,"['Wicked (2024)', 'IF (2024)', 'Venom: The Last Dance (2024)', 'Wonka (2023)', 'Ghostbusters: Frozen Empire (2024)', 'Gladiator II (2024)', 'Deadpool & Wolverine (2024)', 'The Flash (2023)']"
+Amazon Studios,7,"['Air (2023)', 'Jackpot! (2024)', 'Música (2024)', 'Killer Heat (2024)', 'Upgraded (2024)', 'The Idea of You (2024)', 'Five Blind Dates (2024)']"
+Blumhouse Productions,6,"['Sinister (2012)', 'Glass (2019)', 'Split (2016)', 'The Lie (2018)', 'Insidious: The Red Door (2023)', 'Afraid (2024)']"
+Dreamworks Pictures,6,"['Carry-On (2024)', 'Green Book (2018)', ""She's Out of My League (2010)"", 'Catch Me If You Can (2002)', 'Norbit (2007)', 'EuroTrip (2004)']"
+Blinding Edge Pictures,6,"['Trap (2024)', 'Caddo Lake (2024)', 'Knock at the Cabin (2023)', 'Glass (2019)', 'Split (2016)', 'Unbreakable (2000)']"
+New Regency Productions,6,"['The Bikeriders (2023)', 'Birdman or (The Unexpected Virtue of Ignorance) (2014)', 'The Girl Next Door (2004)', 'First Daughter (2004)', 'Just My Luck (2006)', 'Gone Girl (2014)']"
+Summit Entertainment,6,"['Warm Bodies (2013)', 'The Hurt Locker (2008)', 'Penelope (2006)', 'Memento (2000)', '50/50 (2011)', 'Sinister (2012)']"
+20th Century Studios,6,"['Deadpool & Wolverine (2024)', ""Ron's Gone Wrong (2021)"", 'Kingdom of the Planet of the Apes (2024)', 'A Haunting in Venice (2023)', 'The Bikeriders (2023)', 'Prey (2022)']"
+StudioCanal,6,"[""Bridget Jones's Diary (2001)"", 'The Others (2001)', 'Non-Stop (2014)', 'The Losers (2010)', 'Man Up (2015)', 'Shaun the Sheep Movie (2015)']"
+Sony Pictures Animation,5,"['Arthur Christmas (2011)', 'The Angry Birds Movie (2016)', 'Lyle, Lyle, Crocodile (2022)', 'The Pirates! Band of Misfits (2012)', 'Vivo (2021)']"
+A24,5,"['Eighth Grade (2018)', 'Past Lives (2023)', 'I Saw the TV Glow (2024)', 'The Whale (2022)', 'The Iron Claw (2023)']"
+Davis Entertainment,5,"[""Gulliver's Travels (2010)"", 'First Daughter (2004)', 'Norbit (2007)', 'Prey (2022)', 'Harold and the Purple Crayon (2024)']"
+Focus Features,5,"['The Bikeriders (2023)', 'Eternal Sunshine of the Spotless Mind (2004)', 'Brokeback Mountain (2005)', 'Dan in Real Life (2007)', 'Lost in Translation (2003)']"
+Touchstone Pictures,5,"['The Hot Chick (2002)', 'The Waterboy (1998)', 'Dan in Real Life (2007)', 'Unbreakable (2000)', 'Confessions of a Shopaholic (2009)']"
+The Kennedy/Marshall Company,5,"['The Sixth Sense (1999)', 'The Adventures of Tintin (2011)', 'Twisters (2024)', 'Catch Me If You Can (2002)', 'The Curious Case of Benjamin Button (2008)']"
+Skydance Media,5,"['Annihilation (2018)', 'Top Gun: Maverick (2022)', 'The Adam Project (2022)', 'Air (2023)', 'Mission: Impossible - Dead Reckoning Part One (2023)']"
+Relativity Media,5,"['Talladega Nights: The Ballad of Ricky Bobby (2006)', 'Free Birds (2013)', 'The Social Network (2010)', 'Movie 43 (2013)', 'Baby Mama (2008)']"
+DC Entertainment,5,"['The Lego Batman Movie (2017)', 'Joker: Folie à Deux (2024)', 'The Flash (2023)', 'The Losers (2010)', 'Birds of Prey (2020)']"
+Walt Disney Animation Studios,5,"['Moana 2 (2024)', 'Strange World (2022)', 'Wish (2023)', 'Melody Time (1948)', 'The Aristocats (1970)']"
+Village Roadshow Pictures,5,"['Wonka (2023)', 'Two Weeks Notice (2002)', 'Nights in Rodanthe (2008)', 'Yes Man (2008)', 'The Lego Batman Movie (2017)']"
+Domain Entertainment (II),5,"['Joker: Folie à Deux (2024)', 'Furiosa: A Mad Max Saga (2024)', 'Twisters (2024)', 'Wonka (2023)', 'Beetlejuice Beetlejuice (2024)']"
+Lionsgate,4,"['Borderlands (2024)', 'Akeelah and the Bee (2006)', 'Good Luck Chuck (2007)', 'They Came Together (2014)']"
+Gary Sanchez Productions,4,"['Get Hard (2015)', ""Daddy's Home 2 (2017)"", 'The Other Guys (2010)', ""Daddy's Home (2015)""]"
+Working Title Films,4,"['The Substance (2024)', ""Bridget Jones's Diary (2001)"", 'The Big Lebowski (1998)', 'Fargo (1996)']"
+Hughes Entertainment,4,"['Home Alone 2: Lost in New York (1992)', ""National Lampoon's Christmas Vacation (1989)"", 'Planes, Trains & Automobiles (1987)', 'Maid in Manhattan (2002)']"
+Michael De Luca Productions,4,"['Ricky Stanicky (2024)', 'The Social Network (2010)', 'Captain Phillips (2013)', 'The Sitter (2011)']"
+Pixar Animation Studios,4,"['Lightyear (2022)', 'Cars 3 (2017)', 'Cars 2 (2011)', 'Inside Out 2 (2024)']"
+Castle Rock Entertainment,4,"['Flipped (2010)', 'Two Weeks Notice (2002)', 'The Shawshank Redemption (1994)', 'When Harry Met Sally... (1989)']"
+Scott Rudin Productions,4,"['Captain Phillips (2013)', 'Annihilation (2018)', 'The Social Network (2010)', 'The Grand Budapest Hotel (2014)']"
+Vertigo Entertainment,4,"['Woman of the Hour (2023)', 'The Departed (2006)', 'The Lego Batman Movie (2017)', 'Nimona (2023)']"
+Perfect World Pictures,4,"['Neighbors 2: Sorority Rising (2016)', 'Knock at the Cabin (2023)', 'Glass (2019)', 'Nobody (2021)']"
+Roth/Kirschenbaum Films,4,"['The Gray Man (2022)', 'Jackpot! (2024)', 'Anyone But You (2023)', 'A Family Affair (2024)']"
+FilmNation Entertainment,4,"['Knock at the Cabin (2023)', 'Anora (2024)', 'The Founder (2016)', 'Sing Street (2016)']"
+Sony Pictures Releasing,3,"['Lyle, Lyle, Crocodile (2022)', 'Ghostbusters: Frozen Empire (2024)', 'Insidious: The Red Door (2023)']"
+Media Rights Capital,3,"['Ted 2 (2015)', 'Self Reliance (2023)', 'Jerry and Marge Go Large (2022)']"
+Gulfstream Pictures,3,"['Blended (2014)', 'The Other Zoey (2023)', 'Upgraded (2024)']"
+Canal+,3,"['Anatomy of a Fall (2023)', 'The Others (2001)', 'Non-Stop (2014)']"
+Screen Gems,3,"['Insidious: The Red Door (2023)', ""The Pope's Exorcist (2023)"", 'Easy A (2010)']"
+Gracie Films,3,"['Big (1988)', 'The Edge of Seventeen (2016)', 'Jerry Maguire (1996)']"
+Heyday Films,3,"['Gravity (2013)', 'Yes Man (2008)', 'Wonka (2023)']"
+The Weinstein Company,3,"['Silver Linings Playbook (2012)', 'The Founder (2016)', 'Zack and Miri Make a Porno (2008)']"
+Mosaic,3,"[""She's Out of My League (2010)"", 'Talladega Nights: The Ballad of Ricky Bobby (2006)', 'The Other Guys (2010)']"
+Jerry Bruckheimer Films,3,"['Top Gun: Maverick (2022)', 'Confessions of a Shopaholic (2009)', 'Remember the Titans (2000)']"
+Imagine Entertainment,3,"['Family Switch (2023)', 'Fun with Dick and Jane (2005)', 'Liar Liar (1997)']"
+United Artists,3,"['Rocky IV (1985)', 'Rocky V (1990)', 'Rocky III (1982)']"
+MTV Films,3,"['Coach Carter (2005)', 'Crossroads (2002)', 'Jackass Presents: Bad Grandpa (2013)']"
+Polygram Filmed Entertainment,3,"['Fargo (1996)', 'The Big Lebowski (1998)', 'Clue (1985)']"
+RatPac-Dune Entertainment,3,"['The Lego Batman Movie (2017)', 'Vacation (2015)', 'Keanu (2016)']"
+Illumination Entertainment,3,"['The Lorax (2012)', 'Migration (2023)', 'Despicable Me 4 (2024)']"
+Revolution Studios,3,"['Maid in Manhattan (2002)', 'The Animal (2001)', 'Rocky Balboa (2006)']"
+Jersey Films,3,"['Reno 911!: Miami (2007)', 'Pulp Fiction (1994)', 'Along Came Polly (2004)']"
+Alcon Entertainment,3,"[""Dude, Where's My Car? (2000)"", 'The Garfield Movie (2024)', 'Prisoners (2013)']"
+Maximum Effort,3,"['IF (2024)', 'The Adam Project (2022)', 'Deadpool & Wolverine (2024)']"
+BBC Film,3,"['Rye Lane (2023)', 'The Iron Claw (2023)', 'Man Up (2015)']"
+Aardman Animations,3,"['The Pirates! Band of Misfits (2012)', 'Arthur Christmas (2011)', 'Shaun the Sheep Movie (2015)']"
+Legendary Entertainment,3,"['Pacific Rim (2013)', 'Godzilla x Kong: The New Empire (2024)', 'Kong: Skull Island (2017)']"
+Blue Sky Studios,3,"['The Peanuts Movie (2015)', 'Spies in Disguise (2019)', 'Rio (2011)']"
+Netflix Animation,3,"['The Sea Beast (2022)', 'Klaus (2019)', 'Leo (2023)']"
+China Film Group Corporation (CFGC),3,"['Pixels (2015)', 'Kung Fu Panda 3 (2016)', 'Kung Fu Panda 4 (2024)']"
+Lightnin' Production Rentals,3,"['Lyle, Lyle, Crocodile (2022)', 'Jerry and Marge Go Large (2022)', 'Twisters (2024)']"
+Brownstone Productions,3,"['Pitch Perfect 2 (2015)', 'Bottoms (2023)', 'Pitch Perfect (2012)']"
+Stage 6 Films,3,"['Insidious: The Red Door (2023)', 'Sisu (2022)', 'The Garfield Movie (2024)']"
+Twentieth Century Fox Animation,3,"['Spies in Disguise (2019)', 'Rio (2011)', 'The Peanuts Movie (2015)']"
+Hurwitz Creative,3,"['Inside Out 2 (2024)', 'Strange World (2022)', 'Wish (2023)']"
+Canadian Film or Video Production Tax Credit (CPTC),3,"['Non-Stop (2014)', 'Borderlands (2024)', 'Scoob! (2020)']"
+Fox 2000 Pictures,3,"['27 Dresses (2008)', 'Alvin and the Chipmunks: The Road Chip (2015)', 'Never Been Kissed (1999)']"
+Robert Simonds Productions,3,"['The Waterboy (1998)', 'Billy Madison (1995)', 'The Edge of Seventeen (2016)']"
+Fifth Season,3,"['The Peanut Butter Falcon (2019)', 'Girl Haunts Boy (2024)', 'Monkey Man (2024)']"
+Nickelodeon Movies,3,"['The Adventures of Tintin (2011)', 'Zoey 102 (2023)', 'Saving Bikini Bottom: The Sandy Cheeks Movie (2024)']"
+Point Grey Pictures,3,"['Neighbors (2014)', 'Neighbors 2: Sorority Rising (2016)', '50/50 (2011)']"
+DiNovi Pictures,2,"['Nights in Rodanthe (2008)', 'Cool Runnings (1993)']"
+Australian Government,2,"['Anyone But You (2023)', 'The Fall Guy (2024)']"
+Original Film,2,"['Not Another Teen Movie (2001)', 'Sonic the Hedgehog 3 (2024)']"
+Anton,2,"['Non-Stop (2014)', 'Man Up (2015)']"
+Hutch Parker Entertainment,2,"['Lyle, Lyle, Crocodile (2022)', 'Venom: The Last Dance (2024)']"
+MTV Entertainment Studios,2,"['South Park (Not Suitable for Children) (2023) (TV)', 'South Park: The End of Obesity (2024)']"
+Marvel Entertainment,2,"['Venom: The Last Dance (2024)', 'Madame Web (2024)']"
+Shueisha,2,"['Demon Slayer: Kimetsu No Yaiba - To the Hashira Training (2024)', 'Haikyuu!! The Dumpster Battle (2024)']"
+Artists First,2,"['Keanu (2016)', 'Reno 911!: Miami (2007)']"
+Good Universe,2,"['Neighbors 2: Sorority Rising (2016)', 'Neighbors (2014)']"
+Out of the Blue... Entertainment,2,"['Mr. Deeds (2002)', 'Akeelah and the Bee (2006)']"
+Quebec Film and Television Tax Credit,2,"['Warm Bodies (2013)', 'Joker: Folie à Deux (2024)']"
+Epsilon Motion Pictures,2,"['First Daughter (2004)', 'The Girl Next Door (2004)']"
+Fuji Television Network (Fuji TV),2,"['Split (2016)', 'Migration (2023)']"
+Thunder Road Pictures,2,"['Trigger Warning (2024)', 'Monkey Man (2024)']"
+Wayfarer Studios,2,"['It Ends with Us (2024)', 'The Garfield Movie (2024)']"
+TriStar Pictures,2,"['Sleepless in Seattle (1993)', 'Jerry Maguire (1996)']"
+Feigco Entertainment,2,"['The Peanuts Movie (2015)', 'Jackpot! (2024)']"
+Canadian Film or Video Production Services Tax Credit (PSTC),2,"['Here (2024)', 'Borderlands (2024)']"
+Broken Road Productions,2,"['Incoming (2024)', 'Zookeeper (2011)']"
+Apatow Productions,2,"['Talladega Nights: The Ballad of Ricky Bobby (2006)', 'Knocked Up (2007)']"
+Mandeville Films,2,"['Warm Bodies (2013)', ""Chip 'n Dale: Rescue Rangers (2022)""]"
+LuckyChap,2,"['Birds of Prey (2020)', 'My Old Ass (2024)']"
+Luber Roklin Entertainment,2,"['The Other Zoey (2023)', 'Upgraded (2024)']"
+New Republic Pictures,2,"['Top Gun: Maverick (2022)', 'Transformers One (2024)']"
+Animal Logic,2,"['Leo (2023)', 'The Lego Batman Movie (2017)']"
+Cinetic Media,2,"['Hit Man (2023)', 'Green Book (2018)']"
+Media Asia Films,2,"['Twilight of the Warriors: Walled In (2024)', 'The Departed (2006)']"
+Access Entertainment,2,"['The Iron Claw (2023)', 'I Saw the TV Glow (2024)']"
+One Cool Film Production,2,"['Twilight of the Warriors: Walled In (2024)', 'Vivo (2021)']"
+Di Bonaventura Pictures,2,"['Transformers One (2024)', 'Madame Web (2024)']"
+AGC Studios,2,"['Woman of the Hour (2023)', 'Hit Man (2023)']"
+Kinberg Genre,2,"['A Haunting in Venice (2023)', 'Lift (2024)']"
+Walt Disney Productions,2,"['The Aristocats (1970)', 'Melody Time (1948)']"
+Tollin/Robbins Productions,2,"['Coach Carter (2005)', 'Norbit (2007)']"
+Amblin Partners,2,"['The Fabelmans (2022)', 'Carry-On (2024)']"
+National Lampoon,2,"[""National Lampoon's Christmas Vacation (1989)"", 'Vacation (1983)']"
+Talent One,2,"['Nights in Rodanthe (2008)', 'Family Switch (2023)']"
+Alliance,2,"['Insidious: The Red Door (2023)', 'Sinister (2012)']"
+Endeavor Content,2,"['The Peanut Butter Falcon (2019)', 'The Guilty (2021)']"
+Toho Animation,2,"['Haikyuu!! The Dumpster Battle (2024)', 'Spy x Family Code: White (2023)']"
+New Zealand Film Commission,2,"['The Flash (2023)', 'Deadpool & Wolverine (2024)']"
+Muse Entertainment Enterprises,2,"['Catch Me If You Can (2002)', 'Hot Frosty (2024)']"
+87North,2,"['Nobody (2021)', 'The Fall Guy (2024)']"
+Picturestart,2,"['Borderlands (2024)', 'Sweethearts (2024)']"
+21 Laps Entertainment,2,"['The Adam Project (2022)', 'Deadpool & Wolverine (2024)']"
+Motion Picture Corporation of America,2,"['Irish Wish (2024)', 'Mother of the Bride (2024)']"
+Warner Bros. Animation,2,"['The Lego Batman Movie (2017)', ""Cats Don't Dance (1997)""]"
+Ontario Creates,2,"['Transformers One (2024)', 'Deadpool & Wolverine (2024)']"
+Comedy Partners,2,"['South Park: The End of Obesity (2024)', 'South Park (Not Suitable for Children) (2023) (TV)']"
+Scott Free Productions,2,"['A Haunting in Venice (2023)', 'Gladiator II (2024)']"
+Plan B Entertainment,2,"['The Departed (2006)', 'Beetlejuice Beetlejuice (2024)']"
+Hollywood Pictures,2,"['Tombstone (1993)', 'The Sixth Sense (1999)']"
+Gold Circle Films,2,"['Pitch Perfect 2 (2015)', 'Pitch Perfect (2012)']"
+Sunday Night,2,"['A Quiet Place: Day One (2024)', 'IF (2024)']"
+Trigger Street Productions,2,"['Captain Phillips (2013)', 'The Social Network (2010)']"
+Warner Bros. Pictures Animation,2,"['The Lego Batman Movie (2017)', 'Scoob! (2020)']"
+Wonderland Sound and Vision,2,"['Family Switch (2023)', 'Música (2024)']"
+Tim Burton Productions,2,"['Beetlejuice Beetlejuice (2024)', 'Edward Scissorhands (1990)']"
+Oriental DreamWorks,2,"['Kung Fu Panda 4 (2024)', 'Kung Fu Panda 3 (2016)']"
+Voltage Pictures,2,"['The Hurt Locker (2008)', 'Little Italy (2018)']"
+Searchlight Pictures,2,"['Rye Lane (2023)', 'Nomadland (2020)']"
+DreamWorks,2,"['The Adventures of Tintin (2011)', 'Kung Fu Panda 4 (2024)']"
+Red Hour Films,2,"['Megamind (2010)', 'The Secret Life of Walter Mitty (2013)']"
+Arad Productions,2,"['Venom: The Last Dance (2024)', 'Borderlands (2024)']"
+American Zoetrope,2,"['The Secret Garden (1993)', 'Lost in Translation (2003)']"
+Faliro House Productions,2,"['Killer Heat (2024)', 'The Founder (2016)']"
+Wessler Entertainment,2,"['Movie 43 (2013)', 'Green Book (2018)']"
+South Park Studios,2,"['South Park: The End of Obesity (2024)', 'South Park (Not Suitable for Children) (2023) (TV)']"
+BRON Studios,2,"['Ghostbusters: Frozen Empire (2024)', 'Monkey Man (2024)']"
+Dune Entertainment III,2,"['27 Dresses (2008)', ""Gulliver's Travels (2010)""]"
+Indian Paintbrush,2,"['The Grand Budapest Hotel (2014)', 'My Old Ass (2024)']"
+StudioCanal International,2,"['Man Up (2015)', 'Non-Stop (2014)']"
+Barry Mendel Productions,2,"['Unbreakable (2000)', 'The Sixth Sense (1999)']"
+The South Australian Film Corporation,2,"['The Fall Guy (2024)', 'The Flash (2023)']"
+Olive Bridge Entertainment,2,"['Easy A (2010)', 'Anyone But You (2023)']"
+Karz Entertainment,2,"['Good Luck Chuck (2007)', 'Blended (2014)']"
+A Band Apart,2,"['Good Will Hunting (1997)', 'Pulp Fiction (1994)']"
+Spyglass Entertainment,2,"['The Sixth Sense (1999)', '27 Dresses (2008)']"
+Nova Media,2,"['Green Book (2018)', 'Terminator 2: Judgment Day (1991)']"
+Agora Studio,2,"['Lyle, Lyle, Crocodile (2022)', 'Scoob! (2020)']"
+The Government of Canada Income Tax Credit Program,2,"['Trap (2024)', 'Ghostbusters: Frozen Empire (2024)']"
+Grosvenor Park Media,2,"['Penelope (2006)', 'The Hurt Locker (2008)']"
+Dimension Films,2,"['Scary Movie (2000)', 'The Others (2001)']"
+Hey Eddie,2,"['Zookeeper (2011)', 'Home Team (2022)']"
+Broadway Video,2,"['Baby Mama (2008)', 'Mean Girls (2024)']"
+Cruise/Wagner Productions,2,"['The Last Samurai (2003)', 'The Others (2001)']"
+GreeneStreet Films,2,"['Movie 43 (2013)', 'Wedding Daze (2006)']"
+NPV Entertainment,2,"['The Lego Batman Movie (2017)', 'Two Weeks Notice (2002)']"
+Nickelodeon Animation Studios,2,"['The Adventures of Tintin (2011)', 'Saving Bikini Bottom: The Sandy Cheeks Movie (2024)']"
+Province of British Columbia Production Services Tax Credit,2,"['Good Luck Chuck (2007)', 'Non-Stop (2014)']"
+Fox Searchlight Pictures,2,"['Slums of Beverly Hills (1998)', 'The Grand Budapest Hotel (2014)']"
+Regency Enterprises,2,"['The Bikeriders (2023)', 'Alvin and the Chipmunks: The Road Chip (2015)']"
+Rough House Pictures,2,"['The Sitter (2011)', 'Nutcrackers (2024)']"
+BenderSpink,2,"['Vacation (2015)', 'Horrible Bosses 2 (2014)']"
+Monkeypaw Productions,2,"['Monkey Man (2024)', 'Keanu (2016)']"
+Big Indie Pictures,2,"['Jackpot! (2024)', 'Killer Heat (2024)']"
+Imperative Entertainment,1,['Killers of the Flower Moon (2023)']
+Tri-State Pictures,1,['The Bikeriders (2023)']
+Annapurna Pictures,1,['Nimona (2023)']
+Advantage Entertainment,1,['Holiday in the Wild (2019)']
+BondIt Media Capital,1,['Woman of the Hour (2023)']
+Tencent Pictures,1,['Kong: Skull Island (2017)']
+Alibaba Pictures Group,1,['Green Book (2018)']
+Lucky Treehouse,1,['The Peanut Butter Falcon (2019)']
+Two Flints,1,['It Follows (2014)']
+Taggart Productions,1,['The Giant Mechanical Man (2012)']
+Curious Film,1,['Hunt for the Wilderpeople (2016)']
+Studio Colorido Co.,1,['Drifting Home (2022)']
+Cosmo Films,1,['Sing Street (2016)']
+ShivHans Pictures,1,['Hit Man (2023)']
+Firsttake Entertainment,1,['Little Italy (2018)']
+Locksmith Animation,1,"[""Ron's Gone Wrong (2021)""]"
+LStar Capital,1,['Pixels (2015)']
+Orion Pictures,1,['Bottoms (2023)']
+Hemisphere Media Capital,1,['The Adventures of Tintin (2011)']
+Louisiana Entertainment,1,['Green Book (2018)']
+Cygames,1,['Maboroshi (2023)']
+Warner Bros.,1,['Maboroshi (2023)']
+Ventaro Film,1,['Boy Kills World (2023)']
+Film Croppers Entertainment,1,['Pixels (2015)']
+Witness Protection Films,1,['Movie 43 (2013)']
+Genre Films,1,['Lift (2024)']
+Jason T. Reed Productions,1,['Kingdom of the Planet of the Apes (2024)']
+Henson Organisation,1,['The Dark Crystal (1982)']
+Yale Productions,1,['After Everything (2018)']
+Hasbro Studios,1,['Dungeons & Dragons: Honor Among Thieves (2023)']
+Ad hoc studios,1,"[""The Pope's Exorcist (2023)""]"
+Star Thrower Entertainment,1,['8-Bit Christmas (2021)']
+Le Grisbi Productions,1,['Birdman or (The Unexpected Virtue of Ignorance) (2014)']
+Nine Stories Productions,1,['The Guilty (2021)']
+The SPA Studios,1,['Klaus (2019)']
+QC Entertainment,1,['The Wrong Missy (2020)']
+Allspark Pictures,1,['Dungeons & Dragons: Honor Among Thieves (2023)']
+ESX Entertainment,1,['A Hollywood Christmas (2022) (TV)']
+Northern Lights Films,1,['It Follows (2014)']
+Lian Ray Pictures,1,['Twilight of the Warriors: Walled In (2024)']
+Piki Films,1,['Hunt for the Wilderpeople (2016)']
+Virgin Produced,1,['Movie 43 (2013)']
+Pascal Pictures,1,['Venom: The Last Dance (2024)']
+Screen Queensland,1,['Godzilla x Kong: The New Empire (2024)']
+Ghostcorps,1,['Ghostbusters: Frozen Empire (2024)']
+French Film Company,1,['Beetlejuice Beetlejuice (2024)']
+Distressed Films,1,['Sing Street (2016)']
+Entertaining Power,1,['Twilight of the Warriors: Walled In (2024)']
+6th & Idaho Productions,1,['Lift (2024)']
+K Period Media,1,['Caddo Lake (2024)']
+FilmWave,1,['Sing Street (2016)']
+WME Independent,1,['Monkey Man (2024)']
+Automatik Entertainment,1,['Sinister (2012)']
+Eighty Two Films,1,['Nobody (2021)']
+Possessed Pictures,1,['Sinister (2012)']
+Wit Studio,1,['Spy x Family Code: White (2023)']
+Le Studio Canal+,1,['Terminator 2: Judgment Day (1991)']
+Rocket Science,1,['Ricky Stanicky (2024)']
+Sergio Pablos Animation Studios,1,['Klaus (2019)']
+Hartbeat Productions,1,['Lift (2024)']
+Paramount Animation,1,['Transformers One (2024)']
+Kennedy Miller Mitchell,1,['Furiosa: A Mad Max Saga (2024)']
+Wayans Bros. Entertainment,1,['Scary Movie (2000)']
+Rovio Entertainment,1,['The Angry Birds Movie (2016)']
+Flawless,1,['Fall (2022)']
+Levantine Films,1,['Jerry and Marge Go Large (2022)']
+Jaggi Entertainment,1,['Love Is in the Air (2023)']
+TC Productions,1,['Mission: Impossible - Dead Reckoning Part One (2023)']
+Down Productions,1,['The Secret Life of Walter Mitty (2013)']
+BoulderLight Pictures,1,['Woman of the Hour (2023)']
+Mappa,1,['Maboroshi (2023)']
+Nature Lab.,1,['Maboroshi (2023)']
+Origo Film Group,1,['Borderlands (2024)']
+Kilburn Media,1,['Chef (2014)']
+Armory Films,1,['The Peanut Butter Falcon (2019)']
+Sunchaser Entertainment,1,['Banshee Chapter (2013)']
+Joint Effort,1,['Joker: Folie à Deux (2024)']
+Pacific Standard,1,['Gone Girl (2014)']
+Great Pacific Media,1,['Sidelined: The QB and Me (2024)']
+Aggregate Films,1,['Hit Man (2023)']
+The Walsh Company,1,['The Way Way Back (2013)']
+Votiv Films,1,['The Giant Mechanical Man (2012)']
+Ciné+,1,['Anatomy of a Fall (2023)']
+Animal Kingdom,1,['It Follows (2014)']
+Stoller Global Solutions,1,['Incoming (2024)']
+Edmonds Entertainment,1,['Good Luck Chuck (2007)']
+Creative Wealth Media Finance,1,['Monkey Man (2024)']
+Red Granite Pictures,1,"[""Daddy's Home (2015)""]"
+Sycamore Pictures,1,['The Way Way Back (2013)']
+Lars Productions,1,['Lars and the Real Girl (2007)']
+Matt Tolmach Productions,1,['Venom: The Last Dance (2024)']
+Zookeeper Productions,1,['Zookeeper (2011)']
+Tea Shop Productions,1,['Fall (2022)']
+Chuck Productions,1,['Good Luck Chuck (2007)']
+Second Gen Pictures,1,"['Love, Divided (2024)']"
+ITS Capital,1,['The Giant Mechanical Man (2012)']
+Aldamisa Entertainment,1,['Chef (2014)']
+The Combine,1,['The Founder (2016)']
+Maiden Voyage Pictures,1,['Dìdi (2024)']
+Kadokawa,1,['Maboroshi (2023)']
+Grey Matter Productions,1,['Family Switch (2023)']
+What Just Happened Productions,1,['The Way Way Back (2013)']
+Atresmedia Cine,1,['Klaus (2019)']
+"Hardy, Son & Baker",1,['Venom: The Last Dance (2024)']
+Reliance Entertainment,1,['The Fabelmans (2022)']
+Oddball Entertainment,1,['Kingdom of the Planet of the Apes (2024)']
+Bushiroad,1,['Maboroshi (2023)']
+Vendôme Pictures,1,['CODA (2021)']
+8bit,1,['Blue Lock: Episode Nagi (2024)']
+RatPac Entertainment,1,['Horrible Bosses 2 (2014)']
+Worldview Entertainment,1,['Birdman or (The Unexpected Virtue of Ignorance) (2014)']
+Two Tall Boots,1,['The Giant Mechanical Man (2012)']
+Marza Animation Planet,1,['Sonic the Hedgehog 3 (2024)']
+WYSJ Media,1,['After Everything (2018)']
+Cranetown Media,1,['Happiness for Beginners (2023)']
+Concord Productions,1,['Enter the Dragon (1973)']
+Columbia Pictures,1,['Madame Web (2024)']
+Nova Film,1,['Badland Hunters (2024)']
+Wattpad Webtoon Studios,1,['Sidelined: The QB and Me (2024)']
+Big Punch Pictures,1,['Badland Hunters (2024)']
+Minor Realm,1,['Monkey Man (2024)']
+iGeneration Studios,1,['The Kissing Booth (2018)']
+Capstone Studios,1,['Fall (2022)']
+John Cohen Productions,1,['The Garfield Movie (2024)']
+VicScreen,1,['Ricky Stanicky (2024)']
+Cinéventure 7,1,['Anatomy of a Fall (2023)']
+Cinécap 5,1,['Anatomy of a Fall (2023)']
+You Want I Should,1,['Marcel the Shell with Shoes On (2021)']
+Sunbeam TV & Films,1,['Marcel the Shell with Shoes On (2021)']
+Boldly Go Productions,1,"[""It's What's Inside (2024)""]"
+Barnstorm Productions,1,['Hit Man (2023)']
+Cofinova 18,1,['Anatomy of a Fall (2023)']
+Rivulet Films,1,['Nutcrackers (2024)']
+Turnover Films,1,['Rye Lane (2023)']
+HG Entertainment Film Company,1,['Twilight of the Warriors: Walled In (2024)']
+Meraki Films,1,['Find Me Falling (2024)']
+Somewhere Pictures,1,['The Idea of You (2024)']
+Empire Kids,1,"[""The Pope's Exorcist (2023)""]"
+Amet Entertainment,1,['The Guilty (2021)']
+Apple Original Films,1,['CODA (2021)']
+Uinta Productions,1,['Find Me Falling (2024)']
+Rivulet Media,1,['Nutcrackers (2024)']
+Artists Road,1,['Incoming (2024)']
+Double Dare You,1,['Pacific Rim (2013)']
+Twentieth Century Animation,1,"[""Ron's Gone Wrong (2021)""]"
+Good Chaos,1,['Sisu (2022)']
+Such Content,1,"[""It's What's Inside (2024)""]"
+Proximity Media,1,['Creed III (2023)']
+Landline Pictures,1,['Jerry and Marge Go Large (2022)']
+Bright White Light,1,['Ricky Stanicky (2024)']
+Disney Branded Television,1,['Muppets Haunted Mansion (2021)']
+Speck & Gordon,1,"['Lyle, Lyle, Crocodile (2022)']"
+Apple Studios,1,['Killers of the Flower Moon (2023)']
+Warner Bros. Discovery,1,['A Hollywood Christmas (2022) (TV)']
+Lost Winds Entertainment,1,['Monkey Man (2024)']
+C2 Motion Picture Group,1,['Mission: Impossible - Dead Reckoning Part One (2023)']
+Fuqua Films,1,['The Guilty (2021)']
+Buena Vista International,1,['Glass (2019)']
+Cobalt Blue 1802,1,['Carry-On (2024)']
+Lady Spitfire,1,['Trigger Warning (2024)']
+Gearbox Studios,1,['Borderlands (2024)']
+Lawson Group,1,['Maboroshi (2023)']
+Tommy Harper Productions,1,['Beetlejuice Beetlejuice (2024)']
+Punch Palace Productions,1,['The Beekeeper (2024)']
+Mike Mitchell Productions,1,['Ruby Gillman: Teenage Kraken (2023)']
+Nintendo Entertainment,1,['Badland Hunters (2024)']
+"Misión de Audaces Films, S.L",1,['Society of the Snow (2023)']
+Cousin Jones,1,['Fall (2022)']
+Shinfield Studios,1,['Ghostbusters: Frozen Empire (2024)']
+Prime Focus Studios,1,['The Garfield Movie (2024)']
+Marshall Arts,1,['Sidelined: The QB and Me (2024)']
+A Good Story,1,['The Substance (2024)']
+Cedar Road,1,['Dìdi (2024)']
+Potato Monkey Productions,1,['Descendants: The Rise of Red (2024)']
+Bonneville Pictures,1,['Rebel Ridge (2024)']
+Blacksmith,1,['The Substance (2024)']
+Hasbro Entertainment,1,['Transformers One (2024)']
+Antigravity Academy,1,['Dìdi (2024)']
+Human Woman,1,['Marcel the Shell with Shoes On (2021)']
+Walcott Productions,1,['Self Reliance (2023)']
+The Roald Dahl Story Company,1,['Wonka (2023)']
+Artists Equity,1,['Air (2023)']
+Invention Studios,1,['Thelma (2024)']
+Film in Iceland,1,['Dungeons & Dragons: Honor Among Thieves (2023)']
+Cinémage 17,1,['Anatomy of a Fall (2023)']
+Two Grown Men,1,['Instant Family (2018)']
+Indéfilms 11,1,['Anatomy of a Fall (2023)']
+Unapologetic Projects,1,['Dìdi (2024)']
+Spark Features,1,['Dìdi (2024)']
+Cinéventure 8,1,['Anatomy of a Fall (2023)']
+Annapurna Animation,1,['Nimona (2023)']
+El Arriero Films,1,['Society of the Snow (2023)']
+Pitt Street Productions,1,['See You on Venus (2023)']
+Legs,1,['Maboroshi (2023)']
+Bandwagon,1,['Thelma (2024)']
+Jupiter Peak Productions,1,['Find Me Falling (2024)']
+1 Productions Film,1,['Love in Taipei (2023)']
+Paramount+,1,['Jerry and Marge Go Large (2022)']
+Fruit Tree,1,['I Saw the TV Glow (2024)']
+House Productions,1,['The Iron Claw (2023)']
+Makeready,1,['Killer Heat (2024)']
+Millennium Media,1,['Subservience (2024)']
+Shots Studios,1,['Música (2024)']
+Netflix Studios,1,['The Noel Diary (2022)']
+Dylan Clark Productions,1,['Carry-On (2024)']
+Security Productions,1,['Security (2017)']
+Awesomeness Films,1,['Zoey 102 (2023)']
+Tvacom Film and Tv,1,['The Peanut Butter Falcon (2019)']
+S'YA Concept,1,['Monkey Man (2024)']
+Smudge Films,1,['I Saw the TV Glow (2024)']
+Sugar23,1,['Knox Goes Away (2023)']
+Leverage Entertainment,1,['Instant Family (2018)']
+Cedar Park Entertainment,1,['The Beekeeper (2024)']
+3dot productions,1,['Lonely Planet (2024)']
+Twin Engine,1,['Drifting Home (2022)']
+Kroll & Co. Entertainment,1,['Birds of Prey (2020)']
+I'll Have Another,1,['The Idea of You (2024)']
+Jesus & Mary,1,"[""The Pope's Exorcist (2023)""]"
+Innisfree Pictures,1,['Green Book (2018)']
+Capstone Global,1,['Fall (2022)']
+Pathé Films,1,['CODA (2021)']
+Twister Productions,1,['Twister (1996)']
+LEGO System A/S,1,['The Lego Batman Movie (2017)']
+2.0 Entertainment,1,"[""The Pope's Exorcist (2023)""]"
+Bron Creative,1,['Joker: Folie à Deux (2024)']
+Ingenious Film Partners 2,1,['Children of Men (2006)']
+Suzanne Todd Productions,1,['Descendants: The Rise of Red (2024)']
+Subzero Film Entertainment,1,['Sisu (2022)']
+Région Nouvelle-Aquitaine,1,['Anatomy of a Fall (2023)']
+Marzano Films,1,['Dungeons & Dragons: Honor Among Thieves (2023)']
+Highwayman Films,1,['Nomadland (2020)']
+Outlier Society,1,['Creed III (2023)']
+Région Auvergne-Rhône-Alpes,1,['Anatomy of a Fall (2023)']
+Ajiado,1,['7 Days War (2019)']
+MAD DOG FILMS,1,['The Lie (2018)']
+Auvergne Rhône-Alpes Cinéma,1,['Anatomy of a Fall (2023)']
+Welle Entertainment,1,['The Idea of You (2024)']
+SK Global,1,['Anyone But You (2023)']
+Clubhouse Pictures,1,['Birds of Prey (2020)']
+Wonder Worldwide,1,['Girl Haunts Boy (2024)']
+Saks Picture Company,1,['It Ends with Us (2024)']
+Fifty-Fifty Films,1,['Anyone But You (2023)']
+Change Up Productions,1,['The Noel Diary (2022)']
+One Cool Group,1,['The Garfield Movie (2024)']
+Anton Capital Entertainment (ACE),1,['Shaun the Sheep Movie (2015)']
+Artistic Artist Group,1,['The Lie (2018)']
+Roberts Media.,1,['Meet Me Next Christmas (2024)']
+Monarch Media,1,['Hit Man (2023)']
+Pacific Western Productions,1,['The Terminator (1984)']
+Brooksfilms,1,['Robin Hood: Men in Tights (1993)']
+Linden Entertainment,1,['Family Switch (2023)']
+Climax Studio,1,['Badland Hunters (2024)']
+Future Artists Entertainment,1,['Upgraded (2024)']
+Glickmania,1,['Creed III (2023)']
+Hypnic Jerk Productions,1,['I Saw the TV Glow (2024)']
+Edith Productions,1,"[""It's What's Inside (2024)""]"
+Zurich Avenue,1,['Thelma (2024)']
+Andrews McMeel Entertainment,1,['The Garfield Movie (2024)']
+Mikros Animation,1,['Orion and the Dark (2024)']
+MRC Film,1,['Self Reliance (2023)']
+Intimacy on Set,1,"[""The Pope's Exorcist (2023)""]"
+Particular Crowd,1,['After Everything (2018)']
+Québec Film & TV Production Tax Credit,1,['The Fall Guy (2024)']
+Picture Perfect Federation,1,['CODA (2021)']
+2AM,1,['Past Lives (2023)']
+Witty Michaels Entertainment,1,['Feast of the Seven Fishes (2019)']
+Nthibah Pictures,1,['Boy Kills World (2023)']
+SKY Studios,1,['Wicked (2024)']
+CloverWorks,1,['Spy x Family Code: White (2023)']
+1993,1,['The Peanut Butter Falcon (2019)']
+Raimi Productions,1,['Boy Kills World (2023)']
+CAA Media Finance,1,['The Holdovers (2023)']
+Wishmore,1,['Knock at the Cabin (2023)']
+Disney+,1,['Muppets Haunted Mansion (2021)']
+Wild Atlantic Pictures,1,['Irish Wish (2024)']
+CJ ENM Co.,1,['Past Lives (2023)']
+Sega Sammy Group,1,['Sonic the Hedgehog 3 (2024)']
+Dale Launer Production,1,['My Cousin Vinny (1992)']
+Cor Cordium,1,['Nomadland (2020)']
+Hear/Say Productions,1,['Nomadland (2020)']
+Spyglass Media Group,1,['Incoming (2024)']
+Film Capital Europe Funds (FCEF ),1,['The Hurt Locker (2008)']
+LOVEFiLM International,1,['Non-Stop (2014)']
+Three Point Capital (TPC),1,['Knox Goes Away (2023)']
+Komixx Entertainment,1,['The Kissing Booth (2018)']
+TriPictures,1,"['Love, Divided (2024)']"
+Intrepid Pictures,1,"[""Gerald's Game (2017)""]"
+Walt Disney Animation Canada,1,['Moana 2 (2024)']
+Cinema Gypsy Productions,1,['Akeelah and the Bee (2006)']
+Toei Animation,1,['The First Slam Dunk (2022)']
+Chiodo Brothers Productions,1,['Marcel the Shell with Shoes On (2021)']
+Gerber Pictures,1,['Ricky Stanicky (2024)']
+Protozoa Pictures,1,['The Whale (2022)']
+Brillstein-Grey Entertainment,1,['The Cable Guy (1996)']
+Bona Fide Productions,1,['The Peanut Butter Falcon (2019)']
+Toho-Towa,1,['Children of Men (2006)']
+Warner Bros. Family Entertainment,1,"[""Cats Don't Dance (1997)""]"
+Blur Studio,1,['Sonic the Hedgehog 3 (2024)']
+The Body,1,['Stand by Me (1986)']
+Capstone Pictures,1,['The Guilty (2021)']
+Fuzzy Door Productions,1,['Ted 2 (2015)']
+Sullivan Bluth Studios,1,['All Dogs Go to Heaven (1989)']
+Walt Disney Studios,1,['Strange World (2022)']
+Eagle Pictures,1,"['Lyle, Lyle, Crocodile (2022)']"
+Samuel Goldwyn Films,1,['The Secret Life of Walter Mitty (2013)']
+Entertainment One,1,['Dungeons & Dragons: Honor Among Thieves (2023)']
+Alphaville Films,1,['Tombstone (1993)']
+Bay Films,1,['Transformers One (2024)']
+Team Todd,1,['Memento (2000)']
+Shoelace Productions,1,['Maid in Manhattan (2002)']
+Dark Castle Entertainment,1,['The Losers (2010)']
+Reel FX Creative Studios,1,['Free Birds (2013)']
+Media 8 Entertainment,1,['Wedding Daze (2006)']
+Marvel Studios,1,['Deadpool & Wolverine (2024)']
+Peter V. Miller Investment Corp.,1,['My Cousin Vinny (1992)']
+Gold/Miller Productions,1,['Scary Movie (2000)']
+Toei Company,1,['The First Slam Dunk (2022)']
+Studio Babelsberg,1,['The Grand Budapest Hotel (2014)']
+Jim Henson Productions,1,['The Dark Crystal (1982)']
+France 2 Cinéma,1,['Anatomy of a Fall (2023)']
+Hemdale,1,['The Terminator (1984)']
+David Kirschner Productions,1,"[""Cats Don't Dance (1997)""]"
+Keshan,1,['Get Over It (2001)']
+Paragon Films Ltd.,1,['Police Story (1985)']
+Pacific Data Images,1,['Megamind (2010)']
+Ace Entertainment,1,['Love in Taipei (2023)']
+Type A Films,1,['Penelope (2006)']
+Gaylord Films,1,['A Cinderella Story (2004)']
+Newmarket Capital Group,1,['Memento (2000)']
+Living Films,1,['Mother of the Bride (2024)']
+Kemp Company,1,['Catch Me If You Can (2002)']
+The Mark Gordon Company,1,['A Haunting in Venice (2023)']
+Strike Entertainment,1,['Children of Men (2006)']
+Red Om Films,1,['Maid in Manhattan (2002)']
+Gotham Group,1,['Juror #2 (2024)']
+Elemental Films,1,['Lost in Translation (2003)']
+Appian Way,1,['Killers of the Flower Moon (2023)']
+Mainichi Newspapers,1,['Maboroshi (2023)']
+Alliance Films,1,['Sinister (2012)']
+Loofah Productions,1,['Along Came Polly (2004)']
+Wisenheimer Films,1,['Waiting... (2005)']
+British Film Commission,1,['Dungeons & Dragons: Honor Among Thieves (2023)']
+Sogecine,1,['The Others (2001)']
+Fuji Eight Company Ltd.,1,['Split (2016)']
+Temple Hill Entertainment,1,['Turtles All the Way Down (2024)']
+Black and Blu Entertainment,1,"[""A Knight's Tale (2001)""]"
+Bushwood Pictures,1,['Never Been Kissed (1999)']
+Platinum Dunes,1,['A Quiet Place: Day One (2024)']
+Las Producciones del Escorpión,1,['The Others (2001)']
+Gran Via Productions,1,['The Holdovers (2023)']
+The Geffen Company,1,['Beetlejuice Beetlejuice (2024)']
+Sequoia Pictures,1,['Enter the Dragon (1973)']
+Debra Hill Productions,1,['Clue (1985)']
+Christmas Tree Films,1,['A Christmas Story (1983)']
+Channel Productions,1,['Sixteen Candles (1984)']
+Regal Films,1,['Seasons (2023)']
+Amen Ra Films,1,['Blade (1998)']
+Nickelodeon Studios,1,['Zoey 102 (2023)']
+Orr & Cruickshank,1,['It Takes Two (1995)']
+Dickhouse Productions,1,['Jackass Presents: Bad Grandpa (2013)']
+Turner Feature Animation,1,"[""Cats Don't Dance (1997)""]"
+TF1 Films Production,1,['Non-Stop (2014)']
+View Askew Productions,1,['Zack and Miri Make a Porno (2008)']
+Good Machine,1,['Brokeback Mountain (2005)']
+King World Entertainment,1,['The Little Rascals (1994)']
+Rat Entertainment,1,['Horrible Bosses (2011)']
+Disney Channel,1,"[""Eddie's Million Dollar Cook-Off (2003) (TV)""]"
+Daybreak,1,['The Girl Next Door (2004)']
+Australian Film Finance Corporation,1,['Dungeons & Dragons: Honor Among Thieves (2023)']
+Radar Pictures,1,['The Last Samurai (2003)']
+Licht/Mueller Film Corporation,1,['The Cable Guy (1996)']
+Hanna-Barbera Productions,1,['Scoob! (2020)']
+Bagdasarian Productions,1,['Alvin and the Chipmunks: The Road Chip (2015)']
+Morpheus,1,['Get Over It (2001)']
+United Plankton Pictures,1,['Saving Bikini Bottom: The Sandy Cheeks Movie (2024)']
+Zomba Films,1,['Crossroads (2002)']
+TF1,1,['Non-Stop (2014)']
+First Light Production,1,['The Hurt Locker (2008)']
+Phoenix Pictures,1,['Zodiac (2007)']
+Dylan Sellers Productions,1,['A Cinderella Story (2004)']
+Conundrum Entertainment,1,['Shallow Hal (2001)']
+Rysher Entertainment,1,['It Takes Two (1995)']
+Disney Enterprises,1,['Descendants: The Rise of Red (2024)']
+Nelson Entertainment,1,['When Harry Met Sally... (1989)']
+Imaginary Forces,1,['Blade (1998)']
+Sidney Kimmel Entertainment,1,['Lars and the Real Girl (2007)']
+Initial Entertainment Group,1,['The Departed (2006)']
+Technical Black,1,['Remember the Titans (2000)']
+Hit & Run Productions,1,['Children of Men (2006)']
+Sony Music Entertainment,1,['Haikyuu!! The Dumpster Battle (2024)']
+Kingsgate Films,1,['The Hurt Locker (2008)']
+Mandalay Pictures,1,['Air (2023)']
+The Bedford Falls Company,1,['The Last Samurai (2003)']
+Fortis Films,1,['Two Weeks Notice (2002)']
+Silver Pictures,1,['Non-Stop (2014)']
+Red Wagon Films,1,['Gladiator II (2024)']
+Act III,1,['Stand by Me (1986)']
+Golden Harvest Company,1,['Police Story (1985)']
+Stillking Films,1,['The Gray Man (2022)']
+Anonymous Content,1,['Eternal Sunshine of the Spotless Mind (2004)']
+This Is That Productions,1,['Eternal Sunshine of the Spotless Mind (2004)']
+Dualstar Productions,1,['It Takes Two (1995)']
+Killer Films,1,['Past Lives (2023)']
+Be Gentlemen Limited Partnership,1,['Good Will Hunting (1997)']
+Fairview Entertainment,1,['Chef (2014)']
+British Broadcasting Corporation,1,['Man Up (2015)']
+Lightstorm Entertainment,1,['Terminator 2: Judgment Day (1991)']
+Shallow Hal Filmproduktion GmbH & Co. KG,1,['Shallow Hal (2001)']
+American Entertainment Partners II L.P.,1,['Big (1988)']
+Pinewood Studios,1,['Aliens (1986)']
+Cheyenne Enterprises,1,['Just My Luck (2006)']
+Lawrence Gordon Productions,1,['Prey (2022)']
+Malpaso Productions,1,['Juror #2 (2024)']
+Act III Communications,1,['Stand by Me (1986)']
+ImageMovers,1,['Here (2024)']
+Golden Way Films Ltd.,1,['Police Story (1985)']
+Goldcrest Films International,1,['All Dogs Go to Heaven (1989)']
+1492 Pictures,1,['Pixels (2015)']
+WingNut Films,1,['The Adventures of Tintin (2011)']
+Never Been Kissed Productions,1,['Never Been Kissed (1999)']
+U-Drive Productions,1,['The Money Pit (1986)']
+Waterboy Productions,1,['The Waterboy (1998)']
+DC Comics,1,['The Flash (2023)']
+Don Bluth Ireland,1,['Thumbelina (1994)']
+Movic,1,['Maboroshi (2023)']
+De Line Pictures,1,"[""Fool's Gold (2008)""]"
+Brad Grey Pictures,1,['Scary Movie (2000)']
+Finestkind,1,"[""A Knight's Tale (2001)""]"
+Interscope Communications,1,['The Cutting Edge (1992)']
+Centre national du cinéma et de l'image animée (CNC),1,['Anatomy of a Fall (2023)']
+Tohokushinsha Film Corporation (TFC),1,['Lost in Translation (2003)']
+Soundfirm,1,['Anyone But You (2023)']
+Les Films Pelléas,1,['Anatomy of a Fall (2023)']
+Morgan Creek Entertainment,1,['Ace Ventura: Pet Detective (1994)']
+Moving Pictures,1,['Wicked (2024)']
+Wildwood Enterprises,1,['Slums of Beverly Hills (1998)']
+Expedition Films,1,['Coach Carter (2005)']
+Escape Artists,1,"[""A Knight's Tale (2001)""]"
+Little Bird,1,"[""Bridget Jones's Diary (2001)""]"
+PalmStar Media,1,['Sing Street (2016)']
+Ignite Entertainment,1,['Get Over It (2001)']
+British Film Institute,1,['Rye Lane (2023)']
+Entertainment 360,1,['The Fall Guy (2024)']
+Pacific Western,1,['Terminator 2: Judgment Day (1991)']
+Milestone Entertainment,1,['Good Luck Chuck (2007)']
+Cinereach,1,['Marcel the Shell with Shoes On (2021)']
+The Lonely Island,1,['Self Reliance (2023)']
+Lord Miller,1,['The Lego Batman Movie (2017)']
+Dr. Seuss Enterprises,1,['The Lorax (2012)']
+Johnson Production Group,1,['The Noel Diary (2022)']
+The New South Wales Government,1,['Anyone But You (2023)']
+Closest to the Hole Productions,1,['Instant Family (2018)']
+Little Stranger,1,['Mean Girls (2024)']
+Pace Pictures,1,['Jingle All the Way 2 (2014) (V)']
+Production I.G.,1,['Haikyuu!! The Dumpster Battle (2024)']
+Madhouse Entertainment,1,['Prisoners (2013)']
+IM Global,1,['Sinister (2012)']
+Grindstone Entertainment Group,1,['Little Italy (2018)']
+Ingenious Media,1,['The Secret Life of Walter Mitty (2013)']
+India Take One Productions,1,['Pixels (2015)']
+Northern Ireland Screen,1,['Dungeons & Dragons: Honor Among Thieves (2023)']
+Nickelodeon Productions,1,['Zoey 102 (2023)']
+Government of Canada,1,['Non-Stop (2014)']
+Likely Story,1,['Sing Street (2016)']
+Euro Film Funding,1,['The Terminator (1984)']
+Major Studio Partners,1,['Idiocracy (2006)']
+Fugitive Films,1,['Wedding Daze (2006)']
+The Pleasure Company Inc.,1,['Wedding Daze (2006)']
+Jon Shestack Productions,1,['Dan in Real Life (2007)']
+Millennium Films,1,['Security (2017)']
+JC 23 Entertainment,1,['Fun with Dick and Jane (2005)']
+Gaumont,1,['Robin Hood: Men in Tights (1993)']
+Tatira,1,['Penelope (2006)']
+Dune Entertainment,1,"[""Gulliver's Travels (2010)""]"
+M Productions,1,['Birdman or (The Unexpected Virtue of Ignorance) (2014)']
+Créa TV,1,['Kong: Skull Island (2017)']
+Starbucks Entertainment,1,['Akeelah and the Bee (2006)']
+Don Bluth Productions,1,['All Dogs Go to Heaven (1989)']
+Loyola Productions,1,"[""The Pope's Exorcist (2023)""]"
+Michaels Goldwyn,1,['Baby Mama (2008)']
+Alberta Film Entertainment,1,['Brokeback Mountain (2005)']
+T2 Productions,1,['Terminator 2: Judgment Day (1991)']
+Farrelly Films,1,['Ricky Stanicky (2024)']
+GH One,1,['Talladega Nights: The Ballad of Ricky Bobby (2006)']
+Esperanto Filmoj,1,['Gravity (2013)']
+Big Screen Productions,1,['The Secret Life of Walter Mitty (2013)']
+Roth Films,1,['The Gray Man (2022)']
+Before The Door Pictures,1,['Banshee Chapter (2013)']
+Ternion Pictures,1,['Idiocracy (2006)']
+Les Films de Pierre,1,['Anatomy of a Fall (2023)']
+20th Century Fox Home Entertainment,1,['Free Birds (2013)']
+Right of Way Films,1,['Ghostbusters: Frozen Empire (2024)']
+Allegheny Image Factory,1,['Feast of the Seven Fishes (2019)']
+Double Dare You (DDY),1,['Pacific Rim (2013)']
+Dichotomy Films,1,['Juror #2 (2024)']
+Strongman,1,['Marcel the Shell with Shoes On (2021)']
+Chernin Entertainment,1,['Spies in Disguise (2019)']
+Screen New South Wales,1,['Leo (2023)']
+High Sierra Carpeting,1,['Reno 911!: Miami (2007)']
+Scythia Films,1,['My Old Ass (2024)']
+Make Movies,1,['Warm Bodies (2013)']
+AGBO,1,['The Gray Man (2022)']
+Wintergreen Productions,1,['The Other Guys (2010)']
+The Muppets Studio,1,['Muppets Haunted Mansion (2021)']
+David Dobkin Productions,1,['Vacation (2015)']
+Tom DeSanto/Don Murphy Production,1,['Transformers One (2024)']
+Nut Bucket Films,1,['The Peanut Butter Falcon (2019)']
+Columbus 81 Productions,1,['Bee Movie (2007)']
+Regal Multimedia,1,['Seasons (2023)']
+Lin Pictures,1,['The Lego Batman Movie (2017)']
+Dan In Real Life Productions,1,['Dan in Real Life (2007)']
+Bluegrass Films,1,['Ted 2 (2015)']
+Goalpost Pictures,1,['Five Blind Dates (2024)']
+DJ Films,1,['Rye Lane (2023)']
+Dandelion Animation Studio,1,['The First Slam Dunk (2022)']
+WWE Studios,1,['Jingle All the Way 2 (2014) (V)']
+Paramount Famous Productions,1,['Mean Girls 2 (2011) (TV)']
+Big Kid Pictures,1,['Vacation (2015)']
+Nu Boyana Film Studios,1,['Security (2017)']
+Alberta Film Development Program of the Alberta Government,1,['Good Luck Chuck (2007)']
+STX Entertainment,1,['The Edge of Seventeen (2016)']
+8:38 Productions,1,['Prisoners (2013)']
+"High, Wide and Handsome Inc.",1,['Talladega Nights: The Ballad of Ricky Bobby (2006)']
+Brookstreet Pictures,1,['Knox Goes Away (2023)']
+L.I.F.T. Production,1,['Waiting... (2005)']
+Refugee Films,1,['Fast Times at Ridgemont High (1982)']
+Solo One Productions,1,"[""Eddie's Million Dollar Cook-Off (2003) (TV)""]"
+Incorporated Television Company (ITC),1,['The Dark Crystal (1982)']
+DNA Films,1,['Annihilation (2018)']
+Tempo Productions,1,['Upgraded (2024)']
+Double Negative (DNEG),1,['The Garfield Movie (2024)']
+Cinema '84,1,['The Terminator (1984)']
+Studio Babelsberg Motion Pictures,1,['The Losers (2010)']
+Parkes/MacDonald Image Nation,1,['Catch Me If You Can (2002)']
+Favorit Film,1,['Banshee Chapter (2013)']
+American Empirical Pictures,1,['The Grand Budapest Hotel (2014)']
+The Guber-Peters Company,1,['Clue (1985)']
+Fuzzy Bunny Films,1,['Crossroads (2002)']
+Splendid Pictures,1,['Catch Me If You Can (2002)']
+Madison Wells,1,['The Way Way Back (2013)']
+Depth of Field,1,['Afraid (2024)']
+Odenkirk Provissiero Entertainment,1,['Nobody (2021)']
+Don Simpson/Jerry Bruckheimer Films,1,['Top Gun: Maverick (2022)']
+Huayi Brothers Media,1,['The Edge of Seventeen (2016)']
+Double Feature Films,1,['Reno 911!: Miami (2007)']
+The Icelandic Film Foundation,1,['Wicked (2024)']
+Sony Computer Entertainment Europe,1,['Talladega Nights: The Ballad of Ricky Bobby (2006)']
+IAC Films,1,['Eighth Grade (2018)']
+Weed Road Pictures,1,['The Losers (2010)']
+The Zanuck Company,1,['Yes Man (2008)']
+Constant c Productions,1,['Twister (1996)']
+Lawrence Bender Productions,1,['Good Will Hunting (1997)']
+Marc Platt Productions,1,['Wicked (2024)']
+Carolco Pictures,1,['Terminator 2: Judgment Day (1991)']
+2929 Productions,1,['Akeelah and the Bee (2006)']
+Cinergi Pictures Entertainment,1,['Tombstone (1993)']
+The Jim Henson Company,1,['The Dark Crystal (1982)']
+Marvel Enterprises,1,['Blade (1998)']
+Detour Pictures,1,['Hit Man (2023)']
+Clifford Werber Productions,1,['A Cinderella Story (2004)']
+Footloose Productions,1,['Ricky Stanicky (2024)']
+Blue Sea Productions,1,['EuroTrip (2004)']
+Comedy Central Films,1,['Reno 911!: Miami (2007)']
+The Montecito Picture Company,1,['EuroTrip (2004)']
+Film Science,1,['Rebel Ridge (2024)']
+Flower Films,1,['Never Been Kissed (1999)']
+SLM Production Group,1,['Aliens (1986)']
+Mandate Pictures,1,['50/50 (2011)']
+Spelling Bee Productions Inc.,1,['Akeelah and the Bee (2006)']
+Riviera Films,1,['Irish Wish (2024)']
+Neal H. Moritz Productions,1,['Not Another Teen Movie (2001)']
+Limited Edition Productions Inc.,1,['Unbreakable (2000)']
+GWave Productions,1,['Descendants: The Rise of Red (2024)']
+Star Partners III Ltd.,1,['Rocky V (1990)']
+Reactor Films,1,['Akeelah and the Bee (2006)']
+Hill District Media,1,['The Guilty (2021)']
+MMDP Munich Movie Development & Production GmbH & Co. Project KG,1,['Coach Carter (2005)']
+Soapbox Films,1,['Muppets Haunted Mansion (2021)']
+2K Games,1,['Borderlands (2024)']
+Eden Rock Media,1,['Waiting... (2005)']
+I Remember Productions,1,['Memento (2000)']
+Smart Entertainment,1,['Ricky Stanicky (2024)']
+Sikelia Productions,1,['Killers of the Flower Moon (2023)']
+Département de la Charente-Maritime,1,['Anatomy of a Fall (2023)']
+Defender Films,1,['Hunt for the Wilderpeople (2016)']
+Run It Up Productions Inc.,1,['Remember the Titans (2000)']
+Cre Film,1,['Anora (2024)']
+Coach Carter,1,['Coach Carter (2005)']
+Element Films,1,['Waiting... (2005)']
+River Road Entertainment,1,['Brokeback Mountain (2005)']
+Detour Filmproduction,1,['Hit Man (2023)']
+France Télévisions,1,['Anatomy of a Fall (2023)']
+Spirit Dance Entertainment,1,['First Daughter (2004)']
+Stone Village Pictures,1,['Penelope (2006)']
+Bold Films,1,['The Guilty (2021)']
+Lotte Entertainment,1,['Badland Hunters (2024)']
+Zephyr Films,1,['Penelope (2006)']
+Hasbro,1,['Dungeons & Dragons: Honor Among Thieves (2023)']
+Big Talk Productions,1,['Man Up (2015)']
+Brandywine Productions,1,['Aliens (1986)']
+Aniplex,1,['Demon Slayer: Kimetsu No Yaiba - To the Hashira Training (2024)']
+Participant,1,['Green Book (2018)']
+Ufotable,1,['Demon Slayer: Kimetsu No Yaiba - To the Hashira Training (2024)']
