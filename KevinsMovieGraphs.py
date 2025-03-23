@@ -31,6 +31,8 @@ def genHist(df, ident, sortIdent, sortBool, coordName):
 	arrays = np.split(values, index[1:])
 	df2 = pd.DataFrame({ident: ukeys, "Watch Date": [list(a) for a in arrays]})
 
+	df2 = df2[df2[ident] != ""]  # Drop rows where the ident is empty
+
 	df2.set_index(keys=[ident], inplace=True)
 
 	df2["len"] = df2["Watch Date"].str.len()  # per ident, get how may pictures there are
@@ -50,6 +52,8 @@ def mashTwoHist(yHist, yIdent, xHist, xIdent):
 
 	if "genres" in dataIdents:
 		graphingData = smDF[dataIdents].explode("genres")  # Duplicate entries with multiples genres
+	elif "production companies" in dataIdents:
+		graphingData = smDF[dataIdents].explode("production companies")  # Duplicate entries with multiples production companies
 	else:
 		graphingData = smDF[dataIdents]
 
@@ -217,6 +221,15 @@ histDecade["axisTicks"] = histDecade.index.astype(str) + "[" + histDecade.len.as
 histRuntime = genHist(smDF, "runtimes15", "runtimes15", True, "yCord")
 histRuntime["xCord"] = histRuntime.loc[:, "yCord"]
 histRuntime["axisTicks"] = histRuntime.index.astype(str) + " min. " + "[" + histRuntime.len.astype(str) + "]"
+
+histProductionCompanies = genHist(smDF, "production companies", "len", False, "xCord").head(25)
+proDF = pd.read_pickle("productionKey.pkl")
+#histProductionCompanies = pd.concat([histProductionCompanies, proDF], axis=1, join="inner")
+print(histProductionCompanies)
+#histProductionCompanies.rename(columns={"name":"production companies"}, inplace=True)
+#histProductionCompanies.set_index(["production companies"],  inplace=True)
+print(histProductionCompanies)
+histProductionCompanies["axisTicks"] = histProductionCompanies.index.astype(str) + " [" + histProductionCompanies.len.astype(str) + "]"
 
 #################
 #
@@ -451,6 +464,26 @@ for xtick, color in zip(axRatVsRun.get_xticklabels(), list(histDecade["color"]))
 axRatVsRun.set_title("Kevin's Rating vs Decade\n$^\mathrm{{Click\ a\ Dot!}}$\n$^\mathrm{{The\ size\ of\ the\ dot\ reflects\ the\ number\ of\ movies\ at\ that\ specific\ coordinate}}$\n$^\mathrm{{All\ circles\ are\ scaled\ to\ the\ number\ of\ movies\ watched\ per\ decade}}$")
 axRatVsRun.set_xlabel("Decade [Total Watched]")
 axRatVsRun.set_ylabel("Kevin's Rating [Total Watched]")
+
+#################
+# Big Dots
+# Graphing Rating vs Production Companies
+#
+#################
+graphInfoRatVsPro = mashTwoHist(histRating, "kevRatingSingle", histProductionCompanies, "production companies")
+
+figRatVsPro, axRatVsPro = plt.subplots()
+genInteractableScatter(graphInfoRatVsPro, figRatVsPro, axRatVsPro)
+
+axRatVsPro.set_yticks(histRating["yCord"], histRating.axisTicks)
+axRatVsPro.set_xticks(histProductionCompanies["xCord"], histProductionCompanies.axisTicks, rotation=20, ha="right")
+for xtick, color in zip(axRatVsPro.get_xticklabels(), list(histProductionCompanies["color"])):
+	xtick.set_color(color)
+
+axRatVsPro.axis('equal')
+axRatVsPro.set_title("Kevin's Rating vs Production Company\n$^\mathrm{{Click\ a\ Dot!}}$\n$^\mathrm{{The\ size\ of\ the\ dot\ reflects\ the\ number\ of\ movies\ at\ that\ specific\ coordinate}}$\n$^\mathrm{{All\ circles\ are\ scaled\ to\ the\ number\ of\ movies\ watched\ per\ company}}$")
+axRatVsPro.set_xlabel("Production Company [Total Watched]")
+axRatVsPro.set_ylabel("Kevin's Rating [Total Watched]")
 
 #figRatVsRun.tight_layout()
 
