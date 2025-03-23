@@ -224,12 +224,9 @@ histRuntime["axisTicks"] = histRuntime.index.astype(str) + " min. " + "[" + hist
 
 histProductionCompanies = genHist(smDF, "production companies", "len", False, "xCord").head(25)
 proDF = pd.read_pickle("productionKey.pkl")
-#histProductionCompanies = pd.concat([histProductionCompanies, proDF], axis=1, join="inner")
-print(histProductionCompanies)
-#histProductionCompanies.rename(columns={"name":"production companies"}, inplace=True)
-#histProductionCompanies.set_index(["production companies"],  inplace=True)
-print(histProductionCompanies)
-histProductionCompanies["axisTicks"] = histProductionCompanies.index.astype(str) + " [" + histProductionCompanies.len.astype(str) + "]"
+histProductionCompanies = pd.concat([histProductionCompanies, proDF[["name"]]], axis=1, join="inner")
+histProductionCompanies.index.name = "production companies"
+histProductionCompanies["axisTicks"] = histProductionCompanies.name.astype(str) + " [" + histProductionCompanies.len.astype(str) + "]"
 
 #################
 #
